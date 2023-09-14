@@ -20,23 +20,23 @@ Before you begin, ensure you have met the following requirements:
 2. **Install server & client dependencies:**
 
    # Install server dependencies
-   ```shell
-    cd SCS2208GP/backend
-    npm install
+         ```shell
+       cd SCS2208GP/backend
+       npm install
 
-  # Install client dependencies
-  ```shell
-    cd ../frontend
-    npm install
+   # Install client dependencies
+     ```shell
+       cd ../frontend
+       npm install
 
-3. Start the server & client
+3. **Start the server & client:**
 In the terminal, navigate to the backend directory and run the following command to start the server:
-  ```shell
-  npm run dev
+     ```shell
+     npm run dev
 
 In the terminal, navigate to the frontend directory and run the following command :
-  ```shell
-  npm start
+      ```shell
+        npm start
 
 The React development server will run on http://localhost:3000.
 
