@@ -25,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
     npm install
 
   # Install client dependencies
-  ``shell
+  ```shell
     cd ../frontend
     npm install
 
